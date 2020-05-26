@@ -1,0 +1,15 @@
+[flake8]
+exclude =
+    .git,
+    dev,
+    conf,
+    env,
+    venv,
+    admin.py,
+    tests.py,
+    manage.py,
+    dev.manage.py,
+    migrations,
+    __pycache__
+max-line-length = 120
+statistics = True
