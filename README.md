@@ -1,4 +1,4 @@
-# Docker ccontainer for pylint and flake8
+# Docker container for pylint and flake8
 
 Docker Pull Command
 
